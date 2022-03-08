@@ -1,4 +1,6 @@
 // TODO: Write file header comment.
+//  Amy Ngo - This project is from UIC's CS 251 Fall 2021. I was given this
+//  code is only for practice without using GradeScope, DO NOT plagarize my work!
 
 #include <set>
 #include <vector>

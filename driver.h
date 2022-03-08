@@ -69,6 +69,7 @@ Question randomElement(set<Question>& questions) {
 // TODO: Write this function header comment.
 Question randomQuestionFrom(set<Question>& questions) {
     // TODO: Delete this line and the next two, then implement this function.
+    // choose a random question from the set, remove it from the set, then return it.
     (void) questions;
     return {};
 }
